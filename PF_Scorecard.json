@@ -1,0 +1,52 @@
+{
+  "indicatorGroup": [
+    {
+      "code": "G1",
+      "name": "Couverture contraceptive",
+      "titre": "taux de couverture contraceptive"
+    },
+       {
+      "code": "G3",
+      "name": "PDV",
+      "titre": "Taux de perdue de vue"
+    }
+  ],
+  "indicators": [
+    {
+      "achieved": "39",
+      "dhisID": "MG50SMpXlXU",
+      "dhisName": "CSB PF Taux de couverture contraceptive",
+      "formula": " ",
+      "groupCode": "G1",
+      "name": "CSB TCC",
+      "notInTrack": "30",
+      "target": "100",
+      "type": "indicator"
+    },
+    {
+      "achieved": "1",
+      "dhisID": "k1ouDe1xASm",
+      "dhisName": "Taux de perdues de vue total",
+      "formula": "",
+      "groupCode": "G3",
+      "name": "CSB PDV",
+      "notInTrack": "5",
+      "target": "0",
+      "type": "indicator"
+    }
+  ],
+  "orgUnitLevel": [
+    {
+      "chw": 3,
+      "district": 3,
+      "facility": 3,
+      "level1": 1,
+      "level2": 2,
+      "level3": 3,
+      "level4": 3,
+      "level5": 3,
+      "level6": 3,
+      "region": 3,
+    }
+  ]
+}
